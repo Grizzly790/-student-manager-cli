@@ -1,0 +1,14 @@
+# Student Manager CLI
+
+This is a simple Python project I built while learning.
+
+## Features
+- Add student
+- View students
+- Check result (pass/fail)
+
+## Purpose
+This project is for tracking my coding progress.
+
+## How to run
+student_result_manager.py
